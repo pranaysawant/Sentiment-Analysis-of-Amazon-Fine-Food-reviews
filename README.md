@@ -90,16 +90,23 @@ PRECISION Test|  0.9621 |0.96707| 0.91498  |0.93655
 ### 4. Logistic Regression
 
 1a. BOW :  L1 Regularizer (AUC) 0.94736 ,  (F1 Score) 0.935099 , (RECALL) 0.900832, (PRECISION) 0.972075
+<br>
 1b. BOW :  L2 Regularizer (AUC) 0.95438 ,  (F1 Score) 0.94934 , (RECALL) 0.92888, (PRECISION) 0.9707
-
+<br>
 
 2a. TFIDF :  L1 Regularizer (AUC) 0.95831 ,  (F1 Score) 0.95099 , (RECALL) 0.93612, (PRECISION) 0.96625
+<br>
 2b. TFIDF :  L2 Regularizer (AUC) 0.96459 ,  (F1 Score) 0.95430 , (RECALL) 0.93824, (PRECISION) 0.97092
-
+<br>
 
 3a. Avg W2V :  L1 Regularizer (AUC) 0.83619 ,  (F1 Score) 0.70750 , (RECALL) 0.55854, (PRECISION) 0.46483
+<br>
+
 3b. Avg W2V :  L2 Regularizer (AUC) 0.83518 ,  (F1 Score) 0.73332 , (RECALL) 0.54296, (PRECISION) 0.96071
+<br>
 
 4a. TFIDF W2V :  L1 Regularizer (AUC) 0.79805 ,  (F1 Score) 0.7377 , (RECALL) 0.60513, (PRECISION) 0.9446
-4b. TFIDF W2V :  L2 Regularizer (AUC) 0.95438 ,  (F1 Score) 0.94934 , (RECALL) 0.92888, (PRECISION) 0.9707
+<br>
 
+4b. TFIDF W2V :  L2 Regularizer (AUC) 0.95438 ,  (F1 Score) 0.94934 , (RECALL) 0.92888, (PRECISION) 0.9707
+<br>
