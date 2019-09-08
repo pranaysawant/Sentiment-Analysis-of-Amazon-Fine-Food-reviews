@@ -64,10 +64,10 @@ Plotted TSNE plots for Different Featurization of Data viz. BOW(uni-gram), tfidf
 
 ### 2.KNN
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
-Model | #K value |	#AUC	| #F1- Score	| #Recall| #Precision
+Model | K value |	AUC	| F1- Score	| Recall| Precision
 --- | --- | --- | --- | --- | --- |
 BOW	| 30 |	0.6686 |0.91490|0.9831|	0.85580
+TF-IDF	|35| 0.5105 | 0.91620 |	1.0000|	0.84545
+Avg W2V| 45| 0.5791|0.91570| 0.9987|0.84550
+AVG W2V-TFIDF|	43|	0.6113|	0.91625| 1.0000| 0.84548
