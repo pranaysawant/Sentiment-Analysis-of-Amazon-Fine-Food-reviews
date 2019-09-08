@@ -115,7 +115,7 @@ PRECISION Test|  0.9621 |0.96707| 0.91498  |0.93655
 
 
 
-Model | BOW L1 |	BOW L2	| TFIDF L1	| TFIDF L2| Avg W2V | TFIDF wt W2V
+Model | BOW L1 |	BOW L2	| TFIDF L1	| TFIDF L2| Avg W2V L1 | TFIDF wt W2V L1|Avg W2V L2 | TFIDF wt W2V L2 
 --- | --- | --- | --- | --- | --- | --- |
 AUC	| 0.92056 |	0.95526 |0.91490|0.9831|	0.85580
 F1 Score	|0.94083| 0.9555 | 0.91620 |	1.0000|	0.84545
