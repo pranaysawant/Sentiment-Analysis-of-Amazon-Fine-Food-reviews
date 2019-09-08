@@ -100,9 +100,13 @@ PRECISION Test|  0.9621 |0.96707| 0.91498  |0.93655
 <br>
 
 3a. Avg W2V :  L1 Regularizer (AUC) 0.83619 ,  (F1 Score) 0.70750 , (RECALL) 0.55854, (PRECISION) 0.46483
+<br>
+
 3b. Avg W2V :  L2 Regularizer (AUC) 0.83518 ,  (F1 Score) 0.73332 , (RECALL) 0.54296, (PRECISION) 0.96071
 <br>
 
 4a. TFIDF W2V :  L1 Regularizer (AUC) 0.79805 ,  (F1 Score) 0.7377 , (RECALL) 0.60513, (PRECISION) 0.9446
+<br>
+
 4b. TFIDF W2V :  L2 Regularizer (AUC) 0.95438 ,  (F1 Score) 0.94934 , (RECALL) 0.92888, (PRECISION) 0.9707
 <br>
