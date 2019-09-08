@@ -45,3 +45,12 @@ F1-score
 * Remove stop words<br>
 * Remove HTML Tags<br>
 * Removing null coloumn<br>
+* Convert all words to Lower case<br>
+* Apply Stemming operation<br>
+
+
+## 4.Splitting Data
+### Time based Splitting into train,cv and test
+    Train-60
+    cv-20
+    test-20
